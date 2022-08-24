@@ -1,0 +1,72 @@
+.notificaion_bar {
+  overflow: auto;
+  width: 300px;
+  height: 555px;
+  padding-top: 10px;
+}
+
+.birthday {
+  color: #65676b;
+  font-size: 17px;
+  padding: 8px 0px;
+}
+
+.birthday_name {
+  font-size: 15px;
+  padding: 10px;
+  display: flex;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.birthday_name:hover {
+  background-color: #E4E6EB;
+}
+
+.gift_icon {
+  font-size: 24px;
+  margin-right: 8px;
+  color: rgb(122, 122, 242);
+}
+
+.asdf {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 12px;
+}
+
+.contact {
+  font-size: 17px;
+  color: #65676b;
+}
+
+.contact_img {
+  width: 26px;
+  height: 26px;
+  margin-right: 8px;
+  border-radius: 50px;
+}
+
+
+.contact_lists {
+  color: black;
+  font-weight: 500;
+  padding: 6px 13px;
+  display: flex;
+  cursor: pointer;
+  border-radius: 6px;
+  height: 34px;
+ 
+}
+
+.contact_lists:hover {
+  background-color: #E4E6EB;
+}
+
+.Search_Contact {
+  height: 22px;
+  border-radius: 50px;
+  margin: 10px 13px;
+  padding-left: 10px;
+  border: none;
+}

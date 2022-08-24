@@ -1,0 +1,12 @@
+body {
+ 
+    background-color: #F0F2F5;
+}
+.main_container{
+    display: flex;
+    justify-content: space-between;
+}
+.market_container{
+    display: flex;
+    justify-content: space-between;
+}

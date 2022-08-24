@@ -1,0 +1,126 @@
+.side_container {
+    width: 360px;
+    background-color: #ffffff;
+    overflow: auto;
+    position: sticky;
+    margin-top: 1px;
+    box-shadow: 1px 0px 3px 0px #ccc;
+}
+
+.container_market {
+    height: 74vh;
+    overflow: auto;
+    padding-top: 16px;
+}
+
+.container1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 16px 2px 16px;
+
+}
+
+.container2 {
+    font-size: 24px;
+    color: #050505;
+    font-weight: 700;
+
+}
+
+.setting_img {
+    width: 36px;
+    height: 36px;
+    border-radius: 50px;
+}
+
+.container3 {
+    width: 316px;
+    height: 34px;
+    background-color: #f0f2f5;
+    border-radius: 50px;
+    border: 0px;
+    padding-left: 14px;
+    font-size: 15px;
+}
+
+.container4 {
+    padding-left: 12px;
+}
+
+.container5 {
+    display: flex;
+    cursor: pointer;
+    width: 300px;
+    height: 44px;
+    padding: 0px 6px;
+}
+
+.container5:hover {
+    background-color: #F0F2F5;
+}
+
+.container6 {
+    width: 28px;
+    height: 28px;
+    background-color: #e4e6eb;
+    border-radius: 50px;
+    margin: 8px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 12px;
+}
+
+.container7 {
+    width: 15.56px;
+    height: 15.56px;
+}
+
+.container8 {
+    font-weight: 500;
+    margin: 12px 0px;
+    font-size: 15px;
+}
+
+.buttton_design {
+    width: 322px;
+    color: #1876f2;
+    height: 36px;
+    background-color: rgb(225, 245, 237);
+    margin: 8px 0px 0px 16px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+
+}
+
+.container9 {
+    font-size: 17px;
+    color: #050505;
+    font-weight: 500;
+}
+
+.container10 {
+    color: #1876f2;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 11px 16px;
+}
+
+.container10:hover {
+    background-color: #F0F2F5;
+}
+
+.line_1 {
+    margin: 9px 12px;
+}
+.container11{
+    display: flex;
+    justify-content: space-between;
+    padding: 6px 16px;
+    color: #216fdb;
+    font-size: 15px;
+}

@@ -1,0 +1,102 @@
+.profile__bar {
+    background-color: white;
+    width: 358.44px;
+    height: 490px;
+    position: fixed;
+    right: 24px;
+    top: 53px;
+    overflow: auto;
+    border-radius: 6px;
+    box-shadow: 3px 3px 10px 0px rgb(116, 116, 116);
+
+}
+
+.profile_bar_img {
+    width: 36px;
+    height: 36px;
+    border-radius: 50px;
+    margin-left: 15px;
+    margin-top: 12px;
+
+}
+
+.profile_bar_name {
+    font-size: 17px;
+    color: #050505;
+    font-weight: 600;
+    margin-left: 10px;
+    margin-top: 16px;
+}
+
+.td {
+    display: flex;
+    cursor: pointer;
+
+}
+
+.aat {
+    background-color: white;
+    width: 324px;
+    height: 112px;
+    margin-left: 17px;
+    box-shadow: 3px 3px 10px 0px rgb(116, 116, 116);
+    border-radius: 8px;
+    margin-top: 15px;
+
+}
+
+.line {
+    background-color: #ced0d4;
+    height: 2px;
+    margin: 0px 16px;
+    border: none;
+}
+
+.ftf {
+    color: #1876f2;
+    margin: 13px 18px;
+    font-weight: 600;
+    font-size: 17px;
+    cursor: pointer;
+    letter-spacing: -0.5px;
+}
+
+.bar_container5 {
+ margin-top: 12px;
+}
+
+.bar_container6 {
+    width: 40px;
+    height: 40px;
+    background-color: #e4e6eb;
+    border-radius: 50px;
+    margin: 10px 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.bar_container7 {
+    width: 22px;
+    height: 22px;
+}
+
+.bar_container8 {
+    font-weight: 500;
+    margin: 15px 0px;
+    font-size: 18px;
+}
+.bar_container4 {
+    display: flex;
+    cursor: pointer;
+    width: 325px;
+    height: 55px;
+    padding: 2px 6px;
+    margin: 2px 0px;
+    border-radius: 8px;
+}
+
+.bar_container4:hover {
+    background-color: #F0F2F5;
+}

@@ -1,0 +1,101 @@
+.watch_1 {
+    height: 90vh;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+
+    width: 1000px;
+    align-items: center;
+
+}
+
+.watch_logo {
+    width: 48px;
+    height: 48px;
+    border-radius: 50px;
+    cursor: pointer;
+
+}
+
+.watch_name {
+    font-size: 15px;
+    color: #050505;
+    margin-top: -10px;
+    display: flex;
+    font-weight: 500;
+}
+
+.watch_name_1:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.watch_name_3:hover {
+    text-decoration: underline;
+}
+
+.watch_name_3 {
+    cursor: pointer;
+    width: 100px;
+    display: flex;
+    font-size: 13px;
+}
+.webicon{
+    color: #65676b;
+    margin: 4px;
+}
+.watch_name_2 {
+    color: #1876f2;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.watch_name_2:hover {
+    text-decoration: underline;
+}
+
+
+.bar_container {
+    display: flex;
+    padding-top: 18px;
+    padding-left: 18px;
+}
+
+.watch_detail {
+    width: 746px;
+    height: 600px;
+    background-color: white;
+    margin: 8px 0px;
+    border-radius: 8px;
+
+}
+
+.watch_2 {
+    margin: 14px 10px;
+
+
+}
+
+.watch_caption {
+    padding-left: 20px;
+    padding-bottom: 18px;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.watch_like {
+    display: flex;
+
+    justify-content: space-evenly;
+    width: 280px;
+    height: 44px;
+    align-items: center;
+}
+
+.like_button2:hover {
+    background-color: #F0F2F5;
+}
+
+.like_button2 {
+    cursor: pointer;
+}

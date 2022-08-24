@@ -1,0 +1,98 @@
+.main_menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    -webkit-box-shadow: 0px 1px 1px #ccc;
+    -moz-box-shadow: 0px 1px 1px #cccccc;
+    box-shadow: 0px 1px 1px #ccc;
+    height: 56px;
+    position: sticky;
+    top: 0;
+    right: 0;
+
+}
+
+.fb_search {
+    margin-top: -8px;
+}
+
+.main2 {
+    display: flex;
+    padding-right: 16px;
+    cursor: pointer;  
+}
+
+.main1 {
+
+    display: flex;
+    margin-left: -90px;
+}
+
+.facebook_icon {
+    width: 40px;
+    margin: 8px 16px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.img_container3 {
+    width: 21px;
+    margin: 10px 10px;
+    height: 21px;
+    font-size: 24px;
+}
+
+.searchbar_menu {
+    width: 220px;
+    /* background-color: rgba(233, 236, 238, 0.833); */
+    background-color: #F0F2F5;
+    height: 38px;
+    border-radius: 30px;
+    font-size: 14px;
+    border-color: white;
+    border: 0ch;
+    padding-left: 15px;
+}
+
+.searchbar {
+    margin-top: -53px;
+    margin-left: 65px;
+
+}
+
+.main_rightside {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: #E4E6EB;
+    margin: 0px 4px;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.menu_middle {
+    width: 111px;
+    height: 56px;
+    margin: 0px 6px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu_middle:hover {
+    background-color: #E4E6EB;
+ border-radius: 4px;
+}
+.nohover:hover{
+    background-color:transparent;
+}
+.middle_icon{
+    font-size: 26px;
+    color: #65676b;
+}
+.tooltip_size{
+    background-color: red;
+}

@@ -1,0 +1,37 @@
+.user_container_1 {
+    width: 304px;
+    cursor: pointer;
+    overflow-y: auto;
+    height: 553px;
+    padding: 8px 10px;
+    overflow-x: hidden;
+}
+.icons {
+    display: flex;
+    padding: 17px 15px;
+    height: 12px;
+   
+}
+.icons:hover{
+    background-color: #e4e6eb;
+}
+.titles {
+    font-weight: 500;
+    margin: 4px 11px;
+    font-size: 15px;
+}
+
+
+.container_-7 {
+    width: 28px;
+    height: 28px;
+}
+.user_icon_home{
+    width: 24px;
+    height: 24px;
+}
+.terms_condition{
+    font-size: 14px;
+    color: #65676b;
+    padding: 4px 10px;
+}

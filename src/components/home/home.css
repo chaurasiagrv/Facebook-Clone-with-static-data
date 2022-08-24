@@ -1,0 +1,231 @@
+.home_container {
+    height: 535px;
+    overflow-y: auto;
+    padding-top: 30px;
+}
+
+.lkjhg {
+    padding-left: 46px;
+}
+
+.story_container {
+    display: flex;
+    overflow-y: auto;
+    width: 600px;
+    height: 220px;
+
+
+}
+
+.story {
+    width: 111px;
+    height: 198px;
+    cursor: pointer;
+    margin: 0px 3px;
+    border-radius: 14px;
+}
+
+
+
+.porfile_img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.profile_name {
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+.profile_name:hover {
+    text-decoration: underline;
+}
+
+
+.profile_date {
+    color: #65676B;
+    margin-left: 8px;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.profile_date:hover {
+    text-decoration: underline;
+}
+
+
+.photo_img {
+    width: 500px;
+    cursor: pointer;
+}
+
+.live_bar {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 15px;
+    color: #65676B;
+    font-weight: 600;
+    padding: 2px 10px 0px 26px;
+}
+
+.ssss {
+    width: 12px;
+}
+
+.like_img {
+    width: 18px;
+    margin: 2px 0px 0px 10px;
+}
+
+.qwer {
+    width: 20px;
+}
+
+.qwert {
+    width: 500px;
+    cursor: pointer;
+    display: flex;
+    align-content: space-between;
+    justify-content: space-around;
+}
+
+.profile_content {
+    width: 500px;
+    height: auto;
+    background-color: white;
+    margin: 18px 0px;
+    box-shadow: 1px 1px 1px 1px rgb(231, 230, 230);
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+
+.create_img {
+    width: 70px;
+    height: 40px;
+    cursor: pointer;
+}
+
+
+
+.q2w3e4 {
+    width: 500px;
+    height: 123px;
+    background-color: white;
+    margin-bottom: 18px;
+    border-radius: 12px;
+    box-shadow: 1px 1px 1px 1px rgb(231, 230, 230);
+}
+
+.icon__img {
+    margin-left: 14px;
+}
+
+.u_s_e_r {
+    width: 400px;
+    height: 20px;
+    color: #65676B;
+    background-color: #f0f2f5;
+    font-size: 17px;
+    padding: 8px 12px;
+    border-radius: 50px;
+    border: none;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.timeline_search {
+    display: flex;
+    padding-top: 10px;
+}
+
+.livebar_icon {
+    font-size: 26px;
+    color: #f3425f;
+}
+
+.photobar_icon {
+    font-size: 26px;
+    color: #45bd62;
+}
+
+.feelbar_icon {
+    font-size: 26px;
+    color: #f7b928;
+}
+
+.icon_title {
+    display: flex;
+    align-items: center;
+    margin: 0px 6px;
+    width: 145px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.icon_title:hover {
+    background-color: #F0F2F5;
+}
+
+.create_room {
+    width: 485px;
+    height: 70px;
+    background-color: white;
+    border-radius: 14px;
+    display: flex;
+    align-items: center;
+    padding-left: 16px;
+    box-shadow: 1px 1px 1px 1px rgb(231, 230, 230);
+}
+
+.createroom_logo {
+    font-size: 24px;
+    color: #0D1CE5A1;
+}
+
+.poiuyt {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 148px;
+    height: 40px;
+    border-radius: 50px;
+    padding: 0px 12px;
+    border: 2px solid #e7f3ff;
+    cursor: pointer;
+}
+
+.poiuyt:hover {
+    background-color: #F0F2F5;
+}
+
+.create_room_title {
+    font-size: 15px;
+    color: #216FDB;
+    font-weight: 700;
+}
+
+.adduser {
+    font-size: 28px;
+    color: #216FDB;
+    margin: 0px 14px;
+}
+
+.like_button1 {
+    width: 100px;
+    height: 21px;
+}
+
+.like_button1:hover {
+    background-color: #F0F2F5;
+}
+
+.caption {
+    padding: 8px 20px;
+    font-size: 15px;
+}

@@ -1,0 +1,142 @@
+input::placeholder {
+    color: gray
+}
+
+.main_login {
+    display: flex;
+    background-color: #D3D8E8;
+}
+
+.fb {
+    background-color: #D3D8E8;
+    width: 50%;
+    display: block;
+    justify-items: center;
+    height: 100vh;
+}
+
+
+.ff {
+    height: 106px;
+    margin: -28px;
+    margin-top: 168px;
+    margin-left: 149px;
+}
+
+.tt {
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    margin-left: 176.5px;
+    margin-top: 16px;
+}
+
+.form_login {
+    background-color: #D3D8E8;
+    height: 100vh;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.a {
+    background-color: white;
+    height: auto;
+    width: 396px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: -118px;
+    margin-top: 50px;
+    box-shadow: 3px 3px 10px 0px rgb(116, 116, 116);
+}
+
+.search {
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    border-radius: 6px;
+    vertical-align: middle;
+    margin-top: 16px;
+    border: 1px solid rgb(153, 153, 233);
+}
+
+.search:active {
+    border: 1px solid yellow;
+
+}
+
+.search1 {
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 362px;
+    color: white;
+    font-weight: bold;
+    margin-top: 16px;
+    cursor: pointer;
+}
+
+.search2 {
+    background-color: #42b72a;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 200px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 24px;
+    cursor: pointer;
+}
+
+.p {
+    margin-top: 0px;
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: Helvetica, Arial, sans-serif;
+    text-decoration: none;
+
+}
+
+.kk {
+    border-top: none;
+    color: #1c1e21;
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding-top: 0;
+    text-decoration: none;
+}
+
+.c {
+    margin-top: 33px;
+    margin-left: -116px;
+    border-top: none;
+    color: #1c1e21;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding-top: 0;
+
+}
+
+.bb {
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    margin: 25px 16px;
+    text-align: center;
+    width: 345px;
+}
