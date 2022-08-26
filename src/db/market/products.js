@@ -1,17 +1,17 @@
 export const product = [{
-    picture: "https://scontent.flko4-1.fna.fbcdn.net/v/t39.30808-6/290802010_1484970375287281_3704049051194231743_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=843cd7&_nc_ohc=dA-SDyFpdHUAX_O-kLp&_nc_ht=scontent.flko4-1.fna&oh=00_AT9ALYAWphpa_b4X5BQJjGdayAIDRo9GAR451v39pRqVwQ&oe=62C5CE1B",
+    picture: "https://gomechanic.in/blog/wp-content/uploads/2020/03/unnamed-1-1.jpg",
     price: "50k",
     location: "Chakia,UP",
     caption: "Old Car"
 },
 {
-    picture: "https://scontent.flko4-1.fna.fbcdn.net/v/t45.5328-4/290187322_5425750124142939_8166572326227681037_n.jpg?stp=c101.0.260.260a_dst-jpg_p261x260&_nc_cat=104&ccb=1-7&_nc_sid=c48759&_nc_ohc=TRCtJqs6uO0AX8d88_-&_nc_ht=scontent.flko4-1.fna&oh=00_AT98TbkaiTEY7VAt9pNIoGpaVxjruqfOsUvXU_4sxDPWrQ&oe=62C6E715",
+    picture: "https://mediacdn.99acres.com/media1/17952/7/359047728M-1651896506390.jpg",
     price: "14L",
     location: "Varanasi, UP",
     caption: "बच्छाव मे फूल डेवलप कॉलोनी मे प्लॉट ले मेन हाइवे से मात्र 200 मीटर"
 },
 {
-    picture: "https://scontent.flko4-1.fna.fbcdn.net/v/t45.5328-4/282527255_5115252365217730_1517788060416223204_n.jpg?stp=c0.17.261.261a_dst-jpg_p261x260&_nc_cat=107&ccb=1-7&_nc_sid=c48759&_nc_ohc=gI59rfhZN3IAX_Ov28M&_nc_ht=scontent.flko4-1.fna&oh=00_AT_hqiyH0VqKz5MMeJSouh2nbjxhi_-72e-75FlGABXieg&oe=62C67778",
+    picture: "https://is1-2.housingcdn.com/01c16c28/3db7627abf9c42fb2d201402d73271cd/v0/medium/5_bhk_independent_house-for-sale-nimta-Kolkata-building_view.jpg",
     price: "9,500,000",
     location: "Varanasi, UP",
     caption: "House for sale in Mahamanpuri Colony ,Susuwahi Bhu Road"

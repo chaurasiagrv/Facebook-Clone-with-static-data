@@ -105,7 +105,7 @@ const Menu = () => {
             className="img_container3"
           />{" "}
         </div>
-        <div className="main_rightside" onClick={goAccount}>
+        <div className="main_rightside" onClick={goAccount} style={{backgroundColor:isUserMenu?"#5c6bf3":""}}>
           {" "}
           <img
             src="http://cdn.onlinewebfonts.com/svg/img_569204.png"
